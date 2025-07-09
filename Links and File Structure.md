@@ -1,10 +1,12 @@
 ---
-
 # 📂 Links and File Structure
+---
+
+All the necessary files are in this drive folder: [Folder on Google Drive](https://drive.google.com/drive/folders/16ip4UIeyYDASWML2Vd4DQlxEbhtD8NcV?usp=sharing)
 
 ## 📁 Folder Structure Overview
 
-All relevant files and folders are organized in the Google Document titled **“Links and File Structure”**, which contains direct access to the necessary resources.
+All relevant files and folders are organized in the Google Document titled **"Links and File Structure"**, which contains direct access to the necessary resources.
 
 ---
 
